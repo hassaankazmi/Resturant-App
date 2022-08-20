@@ -1,0 +1,68 @@
+{
+  "posts": [
+    {
+      "id": 9,
+      "name": "Peshawar Chrsi Tikkaa",
+      "email": "Tikka@gmail.com",
+      "mobile": "03412341234",
+      "address": "xyz",
+      "services": "tikka karahia"
+    },
+    {
+      "id": 10,
+      "name": "Quetta Hotel",
+      "email": "Q@gmail.com",
+      "mobile": "123791827389912",
+      "address": "dfasl",
+      "services": "Cafe"
+    }
+  ],
+  "signup": [
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "mobile": "",
+      "id": 1
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "mobile": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "mobile": "",
+      "id": 3
+    },
+    {
+      "name": "Hassan",
+      "password": "ds",
+      "email": "d@gmail.com",
+      "mobile": "",
+      "id": 4
+    },
+    {
+      "name": "hassan",
+      "password": "123456",
+      "email": "hkazzmi@gmail.com",
+      "mobile": "123781723",
+      "id": 5
+    },
+    {
+      "name": "rizwan",
+      "password": "asdfgh",
+      "email": "rz@gmail.com",
+      "mobile": "234230984923",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
